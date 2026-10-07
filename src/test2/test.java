@@ -3,7 +3,7 @@ package test2;
 public class test {
 	
 	public static void main(String args[]) {
-		System.out.println("first changes");
+		System.out.println("first");
 	}
 
 }
